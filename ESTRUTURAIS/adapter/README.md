@@ -25,7 +25,7 @@ Molde que o sistema já conhece e considera como sendo o esperado.
 Sendo o foco do padrão, o adapter faz a implementação da interface-alvo e encapsula a classe adaptada
 
 
-![alt text](image.png)
+![UML adapter](/PADROES_DE_PROJETO/img/umladapter.png)
 
 ## Vantagens e desvantagens
 
