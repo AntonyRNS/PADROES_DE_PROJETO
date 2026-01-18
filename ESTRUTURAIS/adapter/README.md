@@ -25,13 +25,13 @@ Molde que o sistema já conhece e considera como sendo o esperado.
 Sendo o foco do padrão, o adapter faz a implementação da interface-alvo e encapsula a classe adaptada
 
 
-![UML adapter](/PADROES_DE_PROJETO/img/umladapter.png)
+![UML adapter](/PADROES_DE_PROJETO/ESTRUTURAIS/adapter/umladapter.png)
 
 ## Vantagens e desvantagens
 
 ### Vantagens
 
-- Reutilização código existente (Aberto/fechado)
+- Reutilização código existente (aberto/fechado)
 - Responsabildiade única
 - Baixo acoplamento
 
